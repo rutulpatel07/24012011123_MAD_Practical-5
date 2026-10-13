@@ -37,10 +37,15 @@ app/src/main/java/com/example/a24012011123_mad_practical_5/
 - Navigation Compose
 - Android Studio
 
-## How to Run
-1. Open the project in Android Studio and let Gradle sync.
-2. Select an emulator or a connected device (Android 7.0 / API 24 or higher).
-3. Click **Run**, or from the terminal use `./gradlew installDebug`.
-
 ## Output
-Add screenshots of the Login and Register screens here.
+
+<table align="center">
+  <tr>
+    <td align="center"><img src="Screenshots/2.png" alt="Login Screen" width="250" /></td>
+    <td align="center"><img src="Screenshots/1.png" alt="Register Screen" width="250" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Login Screen</b></td>
+    <td align="center"><b>Register Screen</b></td>
+  </tr>
+</table>
